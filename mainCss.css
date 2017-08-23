@@ -1,0 +1,503 @@
+@charset "utf-8";
+/* CSS Document */
+
+.toppadding{
+	padding-left:19px;
+	padding-right:19px;
+	font-size:10px;
+	margin-bottom:10px;
+}
+
+.topmaiginLeft{
+	margin-left:83px;
+}
+
+.toptablecenter{
+	margin:auto;
+}
+
+.topmargintop{
+	margin-top:7px;
+}
+
+.topwriter2{
+	font-size:10px;
+}
+
+.toppaddinglr{
+	padding-left:3px;
+	padding-right:3px;
+}
+
+.topwidnth{
+	width:95px;
+	height:20px;
+	font-size:14px;
+}
+
+.topbordercell{
+	border-collapse:collapse;
+	border-color:#0F0;
+}
+
+.topwidnth2{
+	width:75px;
+	height:20px;
+	font-size:14px;
+}
+
+.topcellout{
+	border:solid 1px #00FF00;
+}
+
+.leftad{
+	border:solid 1px #CCCCCC;
+}
+
+.fontOrange{
+	color: #F60;	
+}
+
+.fontGreen{
+	color:#0F0;
+}
+
+.fontGreen2{
+	color:#0C3;
+	font-weight:bold;
+}
+
+.fontBlue{
+	color:#09F;
+	font-weight:bold;
+}
+
+.fontBlue2{
+	color:#03F;
+}
+
+
+.margintop{
+	margin-top:-12px;
+}
+
+.widthlr{
+	width:253px;
+}
+
+.lineheight{
+	line-height:1.8;
+}
+
+.floatleft{
+	float:left;
+}
+
+.marginleft-11{
+	margin-left:145px;
+}
+
+.widthlr2{
+	width:117px;
+	text-align:center;
+}
+
+.vertical-align{
+	vertical-align:top;
+}
+
+.vertical-middle{
+	vertical-align:middle;
+}
+
+hr{
+	border:dotted 1px #CCCCCC ;
+}
+
+.ltop{
+	margin-top:-122px;
+}
+
+.lrrwidth{
+	margin-left:407px;
+}
+
+.llm{
+	margin-top:-107px;
+	margin-left:406px;
+}
+
+.llmwidth{
+	width:116px;
+	text-align:left;
+}
+
+.floatleft-2{
+	margin-left:407px;
+	margin-top:10px;
+}
+
+.font-Size-14{
+	font-size:14px;
+}
+
+.huanyihuan{
+	font-size:8px;
+	color:#999;
+}
+
+.zitijuzhong{
+	text-align:center;
+}
+
+.zitikuandu{
+	width:96px;
+}
+
+.hanggao{
+	line-height:25px;
+}
+
+.hanggao-20{
+	line-height:20px;
+}
+
+.zuoguanggao1{
+	margin-top:-160px;
+	margin-left:145px;
+}
+
+.zuodanyuange{
+	width:245px;
+}
+
+.zuoCainiaikan{
+	margin-left:145px;
+	margin-top:10px;
+}
+
+.zitikaoyou{
+	text-align:right;
+}
+
+.zitijiacu{
+	font-weight:bold;
+}
+
+.danyuangekuandu-58{
+	width:58px;
+}
+
+.tuxiangbeijing{
+	background-position:center;
+	background-image:url(hao360images/zuoguanggao2.jpg);
+	background-repeat:no-repeat;
+}
+
+.tuxiangbeijing-2{
+	background-position:center;
+	background-image:url(hao360images/zuoguanggao3.jpg);
+	background-repeat:no-repeat;
+}
+
+.tuxiangbeijing-3{
+	background-position:center;
+	background-image:url(hao360images/zuoguanggao4.jpg);
+	background-repeat:no-repeat;
+}
+
+.tuxiangbeijing-4{
+	background-position:center;
+	background-image:url(hao360images/zuoguanggao5.jpg);
+	background-repeat:no-repeat;
+}
+
+.tuxiangbeijing-5{
+	background-position:center;
+	background-image:url(hao360images/zuoguanggao6.jpg);
+	background-repeat:no-repeat;
+}
+
+
+.danyuangegaodu{
+	height:100px;
+}
+
+.fontWhiteguanggao{
+	color: #FFF;
+	background-color: #333;
+	opacity: 0.7;
+	padding: 2px 17px 2px 16px;
+	position: absolute;
+
+}
+
+.fontWhiteguanggao-2{
+	color: #FFF;
+	background-color: #333;
+	opacity: 0.7;
+	padding: 2px 7px 2px 1px;
+	position: absolute;
+
+}
+
+.fontWhiteguanggao-3{
+	color: #FFF;
+	background-color: #333;
+	opacity: 0.7;
+	padding: 2px 10px 2px 10px;
+	position: absolute;
+
+}
+
+.fontWhiteguanggao-4{
+	color: #FFF;
+	background-color: #333;
+	opacity: 0.7;
+	padding: 2px 3px 2px 1px;
+	position: absolute;
+
+}
+
+.fontWhiteguanggao-5{
+	color: #FFF;
+	background-color: #333;
+	opacity: 0.7;
+	padding: 2px 53px 2px 57px;
+	position: absolute;
+
+}
+
+.jueduidingwei-1{
+	bottom:-445px;
+	left:175px;
+}
+
+.jueduidingwei-2{
+	bottom:-718px;
+	left:175px;
+}
+
+.jueduidingwei-3{
+	bottom:-1000px;
+	left:175px;
+}
+
+.jueduidingwei-4{
+	bottom:-1000px;
+	left:290px;
+}
+
+.jueduidingwei-5{
+	bottom:-1242px;
+	left:175px;
+}
+
+.hanggao-20{
+	line-height:20px;
+}
+
+.hanggao-30{
+	line-height:30px;
+}
+
+.font-size-10{
+	font-size:10px;
+}
+
+.juzuokuandu{
+	margin-left:145px;
+}
+
+.font-size-8{
+	font-size:8px;
+}
+
+.zhongjianjueduidingwei{
+	position:absolute;
+	left:500px;
+	top:900px;
+}
+
+.zhongjianjueduidingwei-2{
+	position:absolute;
+	left:417px;
+	top:930px;
+}
+
+.zhongjianjueduidingwei-3{
+	position:absolute;
+	left:417px;
+	top:1175px;
+}
+
+.zhongjianjueduidingwei-4{
+	position:absolute;
+	left:417px;
+	top:1383px;
+}
+
+.zhongjianjueduidingwei-5{
+	position:absolute;
+	left:417px;
+	top:1604px;
+}
+
+.zhongjianjueduidingwei-6{
+	position:absolute;
+	left:417px;
+	top:2005px;
+}
+
+.zhongjianjueduidingwei-7{
+	position:absolute;
+	left:417px;
+	top:2060px;
+}
+
+.zhongjianjueduidingwei-8{
+	position:absolute;
+	left:153px;
+	top:2210px;
+}
+
+.zhongjianjueduidingwei-9{
+	position: absolute;
+	left: 487px;
+	top: 2210px;
+	height: 190px;
+}
+
+.zhongjianjueduidingwei-10{
+	position: absolute;
+	left: 822px;
+	top: 2210px;
+	height: 190px;
+}
+
+.zhongjianjueduidingwei-11{
+	position: absolute;
+	left: 153px;
+	top: 2415px;
+	height: 190px;
+}
+
+.zhongjianjueduidingwei-12{
+	position: absolute;
+	left: 153px;
+	top: 2830px;
+	height: 190px;
+}
+
+.zhongjianjueduidingwei-13{
+	position: absolute;
+	left: 153px;
+	top: 3295px;
+	height: 190px;
+}
+
+.zhongjianjueduidingwei-14{
+	position: absolute;
+	left: 153px;
+	top: 3752px;
+	height: 190px;
+}
+
+.hanggao-37{
+	line-height:37px;
+}
+
+.danyuangekuandu-94{
+	width:94px;
+}
+
+.danyuangekuandu-0{
+	width:63px;
+}
+
+.danyuangekuandu-185{
+	width:193px;
+}
+
+.danyuangekuandu-69{
+	width:69px;
+}
+
+.neibianju{
+	padding-left:22px;
+}
+
+.zitikaozuo{
+	text-align:left;
+}
+
+.hanggao-15{
+	line-height:15px;
+}
+	
+.hanggao-11{
+	line-height:11px;
+}
+
+#fangzuorenWidthHeight{
+	width:743px;
+	height:142px;
+	text-align:center;
+	color:#90F;
+	font-weight:bold;
+	font-family:"华文彩云";
+	font-size:3em;
+}
+
+.fontgray{
+	color:#999;
+}
+
+.neixiabianju{
+	padding-bottom:12px;
+}
+
+.neixiabianju-1{
+	padding-bottom:10px;
+}
+
+.zuoshangxianeibianju-13{
+	padding:13px;
+}
+
+.zuoshangxianeibianju-11{
+	padding:11px;
+}
+
+.zuoshangxianeibianju-8{
+	padding:8px;
+}
+
+.zuoshangxianeibianju-9{
+	padding:9px;
+}
+
+.divclass{
+	position: absolute;
+	top:3770px;
+	width:100%;
+	height:60px;
+	background-color:#999;
+	font-size:8px;
+}
+
+.zitihui{
+	color:#CCC;
+}
+
+a:link {
+	color: #CCC;
+}
+a:visited {
+	color: #CCC;
+}
+a:active {
+	color: #F00;
+}
+
+<!--主框架样式表-->
